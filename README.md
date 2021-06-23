@@ -25,6 +25,9 @@ the agent can pick an action from 4
 when the agent get an average score of +13 over 100 consecutive episodes
 
 ## How to run the code
+You could use the insturction [nstructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to setup the Deep-Reinforcement-Leanring environment 
+
+Which highlighting these steps
 1. create a conda virenv ``` conda create -n drlnd python=3.6```
 2. cd to the downloaded repo ``` cd /Download_path/DRLND-naviigation ``` ** 'Download_path' ** the location where you download the repo
 3. activate the conda environment ``` conda activate drlnd ```
