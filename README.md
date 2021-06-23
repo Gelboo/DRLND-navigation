@@ -26,7 +26,7 @@ when the agent get an average score of +13 over 100 consecutive episodes
 
 ## How to run the code
 1. create a conda virenv ``` conda create -n drlnd python=3.6```
-2. cd to the downloaded repo ``` cd /Download_path/DRLND-naviigation ```
+2. cd to the downloaded repo ``` cd /Download_path/DRLND-naviigation ``` ** 'Download_path' ** the location where you download the repo
 3. activate the conda environment ``` conda activate drlnd ```
 4. install the packages ``` pip install . ```
 5. create IPython kernel ``` python -m ipykernel install --user --name drlnd --display-name "drlnd" ``` 
